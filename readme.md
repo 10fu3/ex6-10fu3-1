@@ -1,6 +1,6 @@
 ## Java 自由制作課題レポート
 
-ベースになった古いバージョンのNgingはこちら, https://github.com/10fu3/NginJ
+ベースになった古いバージョンのNginjはこちら, https://github.com/10fu3/NginJ
 
 ## 制作物について
 - 名前: NewNginj (ウェブサーバーのnginxのJavaVerという意)
